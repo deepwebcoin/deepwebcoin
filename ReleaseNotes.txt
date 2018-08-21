@@ -27,7 +27,7 @@ Release notes 2.0.6
 
 Release notes 2.0.5
 
-- Fixed Bytecoin RPC Wallet hang issue
+- Fixed RPC Wallet hang issue
 
 Release notes 2.0.4
 
@@ -57,14 +57,14 @@ Release notes 2.0.0
 
 Release notes 1.0.11
 
-- New Bytecoin Wallet file format
+- New Wallet file format
 - Daemon loading optimization
 
 Release notes 1.0.10
 
 - Blocksize increase
 - Fusion transactions for Bytecoin RPC Wallet
-- Bytecoin RPC Wallet API improvements
+- RPC Wallet API improvements
 
 Release notes 1.0.9
 
@@ -99,7 +99,7 @@ Release notes 1.0.5
 
 Release notes 1.0.4
 
-- Bytecoin RPC Wallet
+- RPC Wallet
 - New multithreading library
 - Improved console logging
 - Further optimizations
