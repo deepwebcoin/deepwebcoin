@@ -35,6 +35,5 @@ md build && cd build
 cmake -G "Visual Studio 12 Win64" .. -DCMAKE_BUILD_TYPE=Release
 MSBuild deepwebcoin.sln /p:Configuration=Release /m
 ```
-OR you can open Newton Solution in Visual Studio and then do Build.
 
 Good luck!
