@@ -197,4 +197,3 @@ Release notes 0.8.2
 
 Release notes 0.8.1
 
-Bytecoin project is moved to GitHub
